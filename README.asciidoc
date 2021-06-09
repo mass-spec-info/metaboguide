@@ -1,1 +1,7 @@
 このレポジトリではメタボロミクス実践ガイドの補足および、質量分析インフォマティクス入門に有益な情報の共有を行います。(asciidoc v)
+
+== link:ch_insilico_frag.asciidoc[in silico フラグメンテーションツール]
+- in silico フラグメンテーションツールとは
+- 代表的なツールと特徴
+
+== link:ch_env_for_msinfo.asciidoc[質量分析インフォマティクスのための環境構築]

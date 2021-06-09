@@ -18,7 +18,7 @@ in silico フラグメンテーションによりそれぞれの候補構造に�
 
 
 === in silico フラグメンテーションツール
-「メタボロミクス実践ガイド」ではMS-Finder(http://prime.psc.riken.jp/compms/msfinder/main.html)を例に挙げてアノテーションの操作の解説を行いました。
+「メタボロミクス実践ガイド」ではMS-Finder　(http://prime.psc.riken.jp/compms/msfinder/main.html)　を例に挙げてアノテーションの操作の解説を行いました。
 MS-Finderは総合的に見てとても優れたツールですが、それ以外にも多様なツールは存在しています。
 
 

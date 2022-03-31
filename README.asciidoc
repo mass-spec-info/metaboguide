@@ -13,4 +13,4 @@
 
 
 html
-== link:doc/ch_insilico_frag.md
+== link:docs/ch_insilico_frag.md

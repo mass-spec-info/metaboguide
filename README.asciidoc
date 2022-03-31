@@ -12,4 +12,4 @@
 
 
 
-== link:docs/ch_insilico_frag.md [mdv]
+https://mass-spec-info.github.io/metaboguide/ch_insilico_frag.html

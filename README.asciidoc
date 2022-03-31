@@ -9,3 +9,8 @@
 
 
 == link:contact.asciidoc[問い合わせ]
+
+
+
+html
+== link:doc/ch_insilico_frag.md

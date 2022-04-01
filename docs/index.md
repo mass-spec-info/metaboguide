@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
- [insilico fragmentation](https://mass-spec-info.github.io/metaboguide/ch_insilico_frag.html)
+ [insilico fragmentation](https://mass-spec-info.github.io/metaboguide/ch_insilico_frag)
  
 
 ### Markdown

@@ -4,7 +4,7 @@
 - in silico フラグメンテーションツールとは
 - 代表的なツールと特徴
 
-== link:ch_env_for_msinfo.asciidoc[質量分析インフォマティクスのための環境構築]
+== link:https://mass-spec-info.github.io/metaboguide/ch_env_for_msinfo.html[質量分析インフォマティクスのための環境構築]
 
 
 
@@ -12,4 +12,3 @@
 
 
 
-https://mass-spec-info.github.io/metaboguide/ch_insilico_frag.html

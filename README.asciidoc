@@ -1,6 +1,6 @@
 このレポジトリではメタボロミクス実践ガイドの補足および、質量分析インフォマティクス入門に有益な情報の共有を行います。(asciidoc v)
 
-== link:ch_insilico_frag.asciidoc[in silico フラグメンテーションツール]
+== link:https://mass-spec-info.github.io/metaboguide/ch_insilico_frag.html[in silico フラグメンテーションツール]
 - in silico フラグメンテーションツールとは
 - 代表的なツールと特徴
 

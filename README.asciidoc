@@ -1,14 +1,10 @@
 このレポジトリではメタボロミクス実践ガイドの補足および、質量分析インフォマティクス入門に有益な情報の共有を行います。(asciidoc v)
 
 == link:https://mass-spec-info.github.io/metaboguide/ch_insilico_frag.html[in silico フラグメンテーションツール]
-- in silico フラグメンテーションツールとは
-- 代表的なツールと特徴
+in silico フラグメンテーション　（in-silico fragmentation tools）に関する簡単な解説を行っています。
 
 == link:https://mass-spec-info.github.io/metaboguide/ch_env_for_msinfo.html[質量分析インフォマティクスのための環境構築]
-
-
+質量分析データ解析と環境構築に関するオーバービューと簡単な解説を行っています。
 
 == link:contact.asciidoc[問い合わせ]
-
-
-
+質量分析データ解析・ツール開発などのお問い合わせ

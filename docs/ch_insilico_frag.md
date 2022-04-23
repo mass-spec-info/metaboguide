@@ -24,5 +24,5 @@ MIDAS： MIDASは機能的に特徴的な部分・アドバンテージはあま
 
 
 ---
-このページに関するお問い合わせやデータ解析・コンサルティング等のお問い合わせはは下記フォームから本ドキュメントの管理者にご連絡ください。
+このページに関する質問やデータ解析・解析システム開発のコンサルティング等のお問い合わせは下記リンクのフォームから本ドキュメントの管理者（早川）にご連絡ください。
 [問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSe6AOt0oZvLJeJqJulQ3PcHuT05Lmu0SMUHUM82rRntMgCNmw/viewform?usp=pp_url)

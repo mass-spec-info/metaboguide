@@ -88,4 +88,4 @@ Javaは2000年代前後に広く普及して、当時のバイオインフォマ
 
 ---
 このページに関するお問い合わせやデータ解析・コンサルティング等のお問い合わせはは下記フォームから本ドキュメントの管理者にご連絡ください。
-[https://docs.google.com/forms/d/e/1FAIpQLSe6AOt0oZvLJeJqJulQ3PcHuT05Lmu0SMUHUM82rRntMgCNmw/viewform?usp=pp_url]
+[問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSe6AOt0oZvLJeJqJulQ3PcHuT05Lmu0SMUHUM82rRntMgCNmw/viewform?usp=pp_url)

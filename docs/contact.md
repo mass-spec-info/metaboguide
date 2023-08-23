@@ -1,3 +1,10 @@
+---
+layout: default
+title: お問い合わせ
+description: 質量分析インフォマティクスに関するお問い合わせ
+lang: ja_JP
+---
+
 本ドキュメントをお読みになって
 
 

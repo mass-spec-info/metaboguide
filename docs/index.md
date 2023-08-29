@@ -11,3 +11,5 @@
  [質量分析データ解析における人工知能の利用]　（予定）
 
  
+本ドキュメントに関する質問やデータ解析・解析システム開発のコンサルティング等のお問い合わせは下記リンクのフォームから本ドキュメントの管理者にご連絡ください。
+[問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSe6AOt0oZvLJeJqJulQ3PcHuT05Lmu0SMUHUM82rRntMgCNmw/viewform?usp=pp_url)
